@@ -1,4 +1,3 @@
-
 # Scripts for IBM Qradar
 
 IBM Qradar has been the leading SIEM in the cybersecurity market. 
@@ -10,6 +9,8 @@ The format of the scripts is Jupyter Notebook and I will do my best to make the 
 Everything shown in this repository is for educational purposes, if you want to use them in productive environments you must make sure to do the respective tests before affecting any system.
 
 The official IBM documentation on the use of the API is at https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview
+
+Qradar is an IBM product and rights are owned by them.
 
 Ch 
 ## Authors
