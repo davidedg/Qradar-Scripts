@@ -1,0 +1,405 @@
+Log example:
+2022-07-23 22:44:25,480 - root - INFO - The script has started
+2022-07-23 22:44:27,662 - root - INFO - Function get_old_offenses() is done ok
+2022-07-23 22:44:27,696 - root - INFO - Create a new column for log source, rule id and domain name
+2022-07-23 22:44:27,842 - root - INFO - Extract the log source in the nested json for the offense id: XXX93
+2022-07-23 22:44:27,843 - root - INFO - Extract the rule id in the nested json for the offense id: XXX93
+2022-07-23 22:44:27,844 - root - INFO - Extract the log source in the nested json for the offense id: XXX92
+2022-07-23 22:44:27,844 - root - INFO - Extract the rule id in the nested json for the offense id: XXX92
+2022-07-23 22:44:27,845 - root - INFO - Extract the log source in the nested json for the offense id: XXX91
+2022-07-23 22:44:27,846 - root - INFO - Extract the rule id in the nested json for the offense id: XXX91
+2022-07-23 22:44:27,846 - root - INFO - Extract the log source in the nested json for the offense id: XXX90
+2022-07-23 22:44:27,846 - root - INFO - Extract the rule id in the nested json for the offense id: XXX90
+2022-07-23 22:44:27,847 - root - INFO - Extract the log source in the nested json for the offense id: XXX89
+2022-07-23 22:44:27,847 - root - INFO - Extract the rule id in the nested json for the offense id: XXX89
+2022-07-23 22:44:27,847 - root - INFO - Extract the log source in the nested json for the offense id: XXX86
+2022-07-23 22:44:27,848 - root - INFO - Extract the rule id in the nested json for the offense id: XXX86
+2022-07-23 22:44:27,848 - root - INFO - Extract the log source in the nested json for the offense id: XXX80
+2022-07-23 22:44:27,848 - root - INFO - Extract the rule id in the nested json for the offense id: XXX80
+2022-07-23 22:44:27,848 - root - INFO - Extract the log source in the nested json for the offense id: XXX79
+2022-07-23 22:44:27,849 - root - INFO - Extract the rule id in the nested json for the offense id: XXX79
+2022-07-23 22:44:27,849 - root - INFO - Extract the log source in the nested json for the offense id: XXX78
+2022-07-23 22:44:27,849 - root - INFO - Extract the rule id in the nested json for the offense id: XXX78
+2022-07-23 22:44:27,850 - root - INFO - Extract the log source in the nested json for the offense id: XXX77
+2022-07-23 22:44:27,850 - root - INFO - Extract the rule id in the nested json for the offense id: XXX77
+2022-07-23 22:44:27,850 - root - INFO - Extract the log source in the nested json for the offense id: XXX76
+2022-07-23 22:44:27,850 - root - INFO - Extract the rule id in the nested json for the offense id: XXX76
+2022-07-23 22:44:27,851 - root - INFO - Extract the log source in the nested json for the offense id: XXX75
+2022-07-23 22:44:27,851 - root - INFO - Extract the rule id in the nested json for the offense id: XXX75
+2022-07-23 22:44:27,851 - root - INFO - Extract the log source in the nested json for the offense id: XXX74
+2022-07-23 22:44:27,852 - root - INFO - Extract the rule id in the nested json for the offense id: XXX74
+2022-07-23 22:44:27,852 - root - INFO - Extract the log source in the nested json for the offense id: XXX73
+2022-07-23 22:44:27,852 - root - INFO - Extract the rule id in the nested json for the offense id: XXX73
+2022-07-23 22:44:27,852 - root - INFO - Extract the log source in the nested json for the offense id: XXX72
+2022-07-23 22:44:27,853 - root - INFO - Extract the rule id in the nested json for the offense id: XXX72
+2022-07-23 22:44:27,853 - root - INFO - Extract the log source in the nested json for the offense id: XXX71
+2022-07-23 22:44:27,853 - root - INFO - Extract the rule id in the nested json for the offense id: XXX71
+2022-07-23 22:44:27,853 - root - INFO - Extract the log source in the nested json for the offense id: XXX70
+2022-07-23 22:44:27,854 - root - INFO - Extract the rule id in the nested json for the offense id: XXX70
+2022-07-23 22:44:27,854 - root - INFO - Extract the log source in the nested json for the offense id: XXX69
+2022-07-23 22:44:27,854 - root - INFO - Extract the rule id in the nested json for the offense id: XXX69
+2022-07-23 22:44:27,855 - root - INFO - Extract the log source in the nested json for the offense id: XXX68
+2022-07-23 22:44:27,855 - root - INFO - Extract the rule id in the nested json for the offense id: XXX68
+2022-07-23 22:44:27,855 - root - INFO - Extract the log source in the nested json for the offense id: XXX67
+2022-07-23 22:44:27,856 - root - INFO - Extract the rule id in the nested json for the offense id: XXX67
+2022-07-23 22:44:27,856 - root - INFO - Extract the log source in the nested json for the offense id: XXX66
+2022-07-23 22:44:27,856 - root - INFO - Extract the rule id in the nested json for the offense id: XXX66
+2022-07-23 22:44:27,857 - root - INFO - Extract the log source in the nested json for the offense id: XXX65
+2022-07-23 22:44:27,857 - root - INFO - Extract the rule id in the nested json for the offense id: XXX65
+2022-07-23 22:44:27,857 - root - INFO - Extract the log source in the nested json for the offense id: XXX64
+2022-07-23 22:44:27,858 - root - INFO - Extract the rule id in the nested json for the offense id: XXX64
+2022-07-23 22:44:27,858 - root - INFO - Extract the log source in the nested json for the offense id: XXX63
+2022-07-23 22:44:27,858 - root - INFO - Extract the rule id in the nested json for the offense id: XXX63
+2022-07-23 22:44:27,859 - root - INFO - Extract the log source in the nested json for the offense id: XXX62
+2022-07-23 22:44:27,859 - root - INFO - Extract the rule id in the nested json for the offense id: XXX62
+2022-07-23 22:44:27,859 - root - INFO - Extract the log source in the nested json for the offense id: XXX61
+2022-07-23 22:44:27,859 - root - INFO - Extract the rule id in the nested json for the offense id: XXX61
+2022-07-23 22:44:27,860 - root - INFO - Extract the log source in the nested json for the offense id: XXX60
+2022-07-23 22:44:27,860 - root - INFO - Extract the rule id in the nested json for the offense id: XXX60
+2022-07-23 22:44:27,861 - root - INFO - Extract the log source in the nested json for the offense id: XXX59
+2022-07-23 22:44:27,861 - root - INFO - Extract the rule id in the nested json for the offense id: XXX59
+2022-07-23 22:44:27,861 - root - INFO - Extract the log source in the nested json for the offense id: XXX58
+2022-07-23 22:44:27,862 - root - INFO - Extract the rule id in the nested json for the offense id: XXX58
+2022-07-23 22:44:27,862 - root - INFO - Extract the log source in the nested json for the offense id: XXX57
+2022-07-23 22:44:27,862 - root - INFO - Extract the rule id in the nested json for the offense id: XXX57
+2022-07-23 22:44:27,862 - root - INFO - Extract the log source in the nested json for the offense id: XXX56
+2022-07-23 22:44:27,863 - root - INFO - Extract the rule id in the nested json for the offense id: XXX56
+2022-07-23 22:44:27,863 - root - INFO - Extract the log source in the nested json for the offense id: XXX55
+2022-07-23 22:44:27,863 - root - INFO - Extract the rule id in the nested json for the offense id: XXX55
+2022-07-23 22:44:27,864 - root - INFO - Extract the log source in the nested json for the offense id: XXX54
+2022-07-23 22:44:27,864 - root - INFO - Extract the rule id in the nested json for the offense id: XXX54
+2022-07-23 22:44:27,864 - root - INFO - Extract the log source in the nested json for the offense id: XXX53
+2022-07-23 22:44:27,864 - root - INFO - Extract the rule id in the nested json for the offense id: XXX53
+2022-07-23 22:44:27,865 - root - INFO - Extract the log source in the nested json for the offense id: XXX52
+2022-07-23 22:44:27,865 - root - INFO - Extract the rule id in the nested json for the offense id: XXX52
+2022-07-23 22:44:27,865 - root - INFO - Extract the log source in the nested json for the offense id: XXX51
+2022-07-23 22:44:27,866 - root - INFO - Extract the rule id in the nested json for the offense id: XXX51
+2022-07-23 22:44:27,866 - root - INFO - Extract the log source in the nested json for the offense id: XXX50
+2022-07-23 22:44:27,866 - root - INFO - Extract the rule id in the nested json for the offense id: XXX50
+2022-07-23 22:44:27,866 - root - INFO - Extract the log source in the nested json for the offense id: XXX49
+2022-07-23 22:44:27,867 - root - INFO - Extract the rule id in the nested json for the offense id: XXX49
+2022-07-23 22:44:27,867 - root - INFO - Extract the log source in the nested json for the offense id: XXX48
+2022-07-23 22:44:27,867 - root - INFO - Extract the rule id in the nested json for the offense id: XXX48
+2022-07-23 22:44:27,867 - root - INFO - Extract the log source in the nested json for the offense id: XXX47
+2022-07-23 22:44:27,868 - root - INFO - Extract the rule id in the nested json for the offense id: XXX47
+2022-07-23 22:44:27,868 - root - INFO - Extract the log source in the nested json for the offense id: XXX46
+2022-07-23 22:44:27,868 - root - INFO - Extract the rule id in the nested json for the offense id: XXX46
+2022-07-23 22:44:27,869 - root - INFO - Extract the log source in the nested json for the offense id: XXX45
+2022-07-23 22:44:27,869 - root - INFO - Extract the rule id in the nested json for the offense id: XXX45
+2022-07-23 22:44:27,869 - root - INFO - Extract the log source in the nested json for the offense id: XXX44
+2022-07-23 22:44:27,869 - root - INFO - Extract the rule id in the nested json for the offense id: XXX44
+2022-07-23 22:44:27,870 - root - INFO - Extract the log source in the nested json for the offense id: XXX43
+2022-07-23 22:44:27,870 - root - INFO - Extract the rule id in the nested json for the offense id: XXX43
+2022-07-23 22:44:27,870 - root - INFO - Function extract_nested_jsons() is done ok
+2022-07-23 22:44:27,871 - root - INFO - Function drop_columns() is done ok
+2022-07-23 22:44:27,896 - root - INFO - Starting to get the domain name for the domain id in all the ofenses
+2022-07-23 22:44:27,905 - root - INFO - Getting the domain name for the offense id: XXX93
+2022-07-23 22:44:28,541 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:28,542 - root - INFO - Domain name for the offense id: XXX93 is: Domain_test
+2022-07-23 22:44:28,542 - root - INFO - Getting the offence type name for the offense id: XXX93
+2022-07-23 22:44:29,066 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:29,067 - root - INFO - Offense type name for the offense id: XXX93 is Destination Port
+2022-07-23 22:44:29,067 - root - INFO - Getting the domain name for the offense id: XXX92
+2022-07-23 22:44:29,715 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:29,716 - root - INFO - Domain name for the offense id: XXX92 is: Domain_test
+2022-07-23 22:44:29,716 - root - INFO - Getting the offence type name for the offense id: XXX92
+2022-07-23 22:44:30,398 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:30,398 - root - INFO - Offense type name for the offense id: XXX92 is Destination Port
+2022-07-23 22:44:30,398 - root - INFO - Getting the domain name for the offense id: XXX91
+2022-07-23 22:44:31,034 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:31,034 - root - INFO - Domain name for the offense id: XXX91 is: Domain_test
+2022-07-23 22:44:31,035 - root - INFO - Getting the offence type name for the offense id: XXX91
+2022-07-23 22:44:32,152 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:32,154 - root - INFO - Offense type name for the offense id: XXX91 is Destination Port
+2022-07-23 22:44:32,154 - root - INFO - Getting the domain name for the offense id: XXX90
+2022-07-23 22:44:33,655 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:33,656 - root - INFO - Domain name for the offense id: XXX90 is: Domain_test
+2022-07-23 22:44:33,656 - root - INFO - Getting the offence type name for the offense id: XXX90
+2022-07-23 22:44:34,768 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:34,769 - root - INFO - Offense type name for the offense id: XXX90 is Destination Port
+2022-07-23 22:44:34,769 - root - INFO - Getting the domain name for the offense id: XXX89
+2022-07-23 22:44:35,353 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:35,354 - root - INFO - Domain name for the offense id: XXX89 is: Domain_test
+2022-07-23 22:44:35,354 - root - INFO - Getting the offence type name for the offense id: XXX89
+2022-07-23 22:44:35,945 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:35,945 - root - INFO - Offense type name for the offense id: XXX89 is Destination Port
+2022-07-23 22:44:35,946 - root - INFO - Getting the domain name for the offense id: XXX86
+2022-07-23 22:44:36,547 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:36,547 - root - INFO - Domain name for the offense id: XXX86 is: 
+2022-07-23 22:44:36,547 - root - INFO - Getting the offence type name for the offense id: XXX86
+2022-07-23 22:44:37,186 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:37,186 - root - INFO - Offense type name for the offense id: XXX86 is Source IP
+2022-07-23 22:44:37,186 - root - INFO - Getting the domain name for the offense id: XXX80
+2022-07-23 22:44:37,746 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:37,747 - root - INFO - Domain name for the offense id: XXX80 is: 
+2022-07-23 22:44:37,747 - root - INFO - Getting the offence type name for the offense id: XXX80
+2022-07-23 22:44:38,283 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:38,285 - root - INFO - Offense type name for the offense id: XXX80 is Source IP
+2022-07-23 22:44:38,285 - root - INFO - Getting the domain name for the offense id: XXX79
+2022-07-23 22:44:38,888 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:38,890 - root - INFO - Domain name for the offense id: XXX79 is: Domain_test
+2022-07-23 22:44:38,890 - root - INFO - Getting the offence type name for the offense id: XXX79
+2022-07-23 22:44:39,437 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:39,438 - root - INFO - Offense type name for the offense id: XXX79 is Username
+2022-07-23 22:44:39,438 - root - INFO - Getting the domain name for the offense id: XXX78
+2022-07-23 22:44:40,031 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:40,033 - root - INFO - Domain name for the offense id: XXX78 is: Domain_test
+2022-07-23 22:44:40,033 - root - INFO - Getting the offence type name for the offense id: XXX78
+2022-07-23 22:44:40,697 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:40,699 - root - INFO - Offense type name for the offense id: XXX78 is Destination Port
+2022-07-23 22:44:40,699 - root - INFO - Getting the domain name for the offense id: XXX77
+2022-07-23 22:44:41,495 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:41,497 - root - INFO - Domain name for the offense id: XXX77 is: Domain_test
+2022-07-23 22:44:41,497 - root - INFO - Getting the offence type name for the offense id: XXX77
+2022-07-23 22:44:42,105 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:42,107 - root - INFO - Offense type name for the offense id: XXX77 is Destination Port
+2022-07-23 22:44:42,107 - root - INFO - Getting the domain name for the offense id: XXX76
+2022-07-23 22:44:42,643 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:42,645 - root - INFO - Domain name for the offense id: XXX76 is: Domain_test
+2022-07-23 22:44:42,645 - root - INFO - Getting the offence type name for the offense id: XXX76
+2022-07-23 22:44:43,111 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:43,162 - root - INFO - Offense type name for the offense id: XXX76 is Source IP
+2022-07-23 22:44:43,163 - root - INFO - Getting the domain name for the offense id: XXX75
+2022-07-23 22:44:43,715 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:43,716 - root - INFO - Domain name for the offense id: XXX75 is: Domain_test
+2022-07-23 22:44:43,717 - root - INFO - Getting the offence type name for the offense id: XXX75
+2022-07-23 22:44:44,221 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:44,223 - root - INFO - Offense type name for the offense id: XXX75 is Destination Port
+2022-07-23 22:44:44,223 - root - INFO - Getting the domain name for the offense id: XXX74
+2022-07-23 22:44:44,740 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:44,742 - root - INFO - Domain name for the offense id: XXX74 is: Domain_test
+2022-07-23 22:44:44,742 - root - INFO - Getting the offence type name for the offense id: XXX74
+2022-07-23 22:44:45,401 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:45,403 - root - INFO - Offense type name for the offense id: XXX74 is Source IP
+2022-07-23 22:44:45,403 - root - INFO - Getting the domain name for the offense id: XXX73
+2022-07-23 22:44:46,283 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:46,284 - root - INFO - Domain name for the offense id: XXX73 is: Domain_test
+2022-07-23 22:44:46,284 - root - INFO - Getting the offence type name for the offense id: XXX73
+2022-07-23 22:44:47,603 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:47,605 - root - INFO - Offense type name for the offense id: XXX73 is Source IP
+2022-07-23 22:44:47,606 - root - INFO - Getting the domain name for the offense id: XXX72
+2022-07-23 22:44:48,799 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:48,799 - root - INFO - Domain name for the offense id: XXX72 is: Domain_test
+2022-07-23 22:44:48,800 - root - INFO - Getting the offence type name for the offense id: XXX72
+2022-07-23 22:44:49,275 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:49,276 - root - INFO - Offense type name for the offense id: XXX72 is Source IP
+2022-07-23 22:44:49,277 - root - INFO - Getting the domain name for the offense id: XXX71
+2022-07-23 22:44:49,865 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:49,866 - root - INFO - Domain name for the offense id: XXX71 is: Domain_test
+2022-07-23 22:44:49,866 - root - INFO - Getting the offence type name for the offense id: XXX71
+2022-07-23 22:44:50,502 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:50,503 - root - INFO - Offense type name for the offense id: XXX71 is Source IP
+2022-07-23 22:44:50,504 - root - INFO - Getting the domain name for the offense id: XXX70
+2022-07-23 22:44:51,141 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:51,143 - root - INFO - Domain name for the offense id: XXX70 is: Domain_test
+2022-07-23 22:44:51,143 - root - INFO - Getting the offence type name for the offense id: XXX70
+2022-07-23 22:44:51,684 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:51,685 - root - INFO - Offense type name for the offense id: XXX70 is Source IP
+2022-07-23 22:44:51,686 - root - INFO - Getting the domain name for the offense id: XXX69
+2022-07-23 22:44:52,247 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:52,249 - root - INFO - Domain name for the offense id: XXX69 is: Domain_test
+2022-07-23 22:44:52,249 - root - INFO - Getting the offence type name for the offense id: XXX69
+2022-07-23 22:44:52,792 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:52,794 - root - INFO - Offense type name for the offense id: XXX69 is Source IP
+2022-07-23 22:44:52,794 - root - INFO - Getting the domain name for the offense id: XXX68
+2022-07-23 22:44:53,335 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:53,336 - root - INFO - Domain name for the offense id: XXX68 is: Domain_test
+2022-07-23 22:44:53,336 - root - INFO - Getting the offence type name for the offense id: XXX68
+2022-07-23 22:44:53,891 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:53,893 - root - INFO - Offense type name for the offense id: XXX68 is Log Source
+2022-07-23 22:44:53,893 - root - INFO - Getting the domain name for the offense id: XXX67
+2022-07-23 22:44:54,510 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:54,512 - root - INFO - Domain name for the offense id: XXX67 is: Domain_test
+2022-07-23 22:44:54,512 - root - INFO - Getting the offence type name for the offense id: XXX67
+2022-07-23 22:44:55,027 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:55,029 - root - INFO - Offense type name for the offense id: XXX67 is Destination Port
+2022-07-23 22:44:55,030 - root - INFO - Getting the domain name for the offense id: XXX66
+2022-07-23 22:44:55,663 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:55,664 - root - INFO - Domain name for the offense id: XXX66 is: Domain_test
+2022-07-23 22:44:55,665 - root - INFO - Getting the offence type name for the offense id: XXX66
+2022-07-23 22:44:56,274 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:56,275 - root - INFO - Offense type name for the offense id: XXX66 is Source IP
+2022-07-23 22:44:56,276 - root - INFO - Getting the domain name for the offense id: XXX65
+2022-07-23 22:44:56,889 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:56,891 - root - INFO - Domain name for the offense id: XXX65 is: Domain_test
+2022-07-23 22:44:56,891 - root - INFO - Getting the offence type name for the offense id: XXX65
+2022-07-23 22:44:57,477 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:57,478 - root - INFO - Offense type name for the offense id: XXX65 is Destination Port
+2022-07-23 22:44:57,478 - root - INFO - Getting the domain name for the offense id: XXX64
+2022-07-23 22:44:58,056 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:58,058 - root - INFO - Domain name for the offense id: XXX64 is: Domain_test
+2022-07-23 22:44:58,058 - root - INFO - Getting the offence type name for the offense id: XXX64
+2022-07-23 22:44:58,575 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:58,576 - root - INFO - Offense type name for the offense id: XXX64 is Username
+2022-07-23 22:44:58,577 - root - INFO - Getting the domain name for the offense id: XXX63
+2022-07-23 22:44:59,118 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:44:59,119 - root - INFO - Domain name for the offense id: XXX63 is: Megalabs
+2022-07-23 22:44:59,120 - root - INFO - Getting the offence type name for the offense id: XXX63
+2022-07-23 22:44:59,697 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:44:59,699 - root - INFO - Offense type name for the offense id: XXX63 is Source IP
+2022-07-23 22:44:59,699 - root - INFO - Getting the domain name for the offense id: XXX62
+2022-07-23 22:45:02,144 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:02,145 - root - INFO - Domain name for the offense id: XXX62 is: Domain_test
+2022-07-23 22:45:02,145 - root - INFO - Getting the offence type name for the offense id: XXX62
+2022-07-23 22:45:02,746 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:02,747 - root - INFO - Offense type name for the offense id: XXX62 is Source IP
+2022-07-23 22:45:02,747 - root - INFO - Getting the domain name for the offense id: XXX61
+2022-07-23 22:45:03,297 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:03,299 - root - INFO - Domain name for the offense id: XXX61 is: Domain_test
+2022-07-23 22:45:03,300 - root - INFO - Getting the offence type name for the offense id: XXX61
+2022-07-23 22:45:03,854 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:03,856 - root - INFO - Offense type name for the offense id: XXX61 is Source IP
+2022-07-23 22:45:03,856 - root - INFO - Getting the domain name for the offense id: XXX60
+2022-07-23 22:45:04,220 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:04,222 - root - INFO - Domain name for the offense id: XXX60 is: Domain_test
+2022-07-23 22:45:04,222 - root - INFO - Getting the offence type name for the offense id: XXX60
+2022-07-23 22:45:04,702 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:04,704 - root - INFO - Offense type name for the offense id: XXX60 is Source IP
+2022-07-23 22:45:04,704 - root - INFO - Getting the domain name for the offense id: XXX59
+2022-07-23 22:45:05,162 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:05,164 - root - INFO - Domain name for the offense id: XXX59 is: Domain_test
+2022-07-23 22:45:05,164 - root - INFO - Getting the offence type name for the offense id: XXX59
+2022-07-23 22:45:05,883 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:05,884 - root - INFO - Offense type name for the offense id: XXX59 is Source IP
+2022-07-23 22:45:05,885 - root - INFO - Getting the domain name for the offense id: XXX58
+2022-07-23 22:45:06,769 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:06,771 - root - INFO - Domain name for the offense id: XXX58 is: Domain_test
+2022-07-23 22:45:06,771 - root - INFO - Getting the offence type name for the offense id: XXX58
+2022-07-23 22:45:08,098 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:08,100 - root - INFO - Offense type name for the offense id: XXX58 is Source IP
+2022-07-23 22:45:08,100 - root - INFO - Getting the domain name for the offense id: XXX57
+2022-07-23 22:45:08,987 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:08,989 - root - INFO - Domain name for the offense id: XXX57 is: Domain_test
+2022-07-23 22:45:08,989 - root - INFO - Getting the offence type name for the offense id: XXX57
+2022-07-23 22:45:09,546 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:09,547 - root - INFO - Offense type name for the offense id: XXX57 is Source IP
+2022-07-23 22:45:09,548 - root - INFO - Getting the domain name for the offense id: XXX56
+2022-07-23 22:45:10,094 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:10,095 - root - INFO - Domain name for the offense id: XXX56 is: Domain_test
+2022-07-23 22:45:10,096 - root - INFO - Getting the offence type name for the offense id: XXX56
+2022-07-23 22:45:10,614 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:10,616 - root - INFO - Offense type name for the offense id: XXX56 is Source IP
+2022-07-23 22:45:10,616 - root - INFO - Getting the domain name for the offense id: XXX55
+2022-07-23 22:45:11,870 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:11,872 - root - INFO - Domain name for the offense id: XXX55 is: Domain_test
+2022-07-23 22:45:11,872 - root - INFO - Getting the offence type name for the offense id: XXX55
+2022-07-23 22:45:12,469 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:12,471 - root - INFO - Offense type name for the offense id: XXX55 is Source IP
+2022-07-23 22:45:12,471 - root - INFO - Getting the domain name for the offense id: XXX54
+2022-07-23 22:45:13,058 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:13,060 - root - INFO - Domain name for the offense id: XXX54 is: Domain_test
+2022-07-23 22:45:13,060 - root - INFO - Getting the offence type name for the offense id: XXX54
+2022-07-23 22:45:13,615 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:13,616 - root - INFO - Offense type name for the offense id: XXX54 is Log Source
+2022-07-23 22:45:13,616 - root - INFO - Getting the domain name for the offense id: XXX53
+2022-07-23 22:45:14,222 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:14,224 - root - INFO - Domain name for the offense id: XXX53 is: Domain_test
+2022-07-23 22:45:14,224 - root - INFO - Getting the offence type name for the offense id: XXX53
+2022-07-23 22:45:14,739 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:14,741 - root - INFO - Offense type name for the offense id: XXX53 is Username
+2022-07-23 22:45:14,741 - root - INFO - Getting the domain name for the offense id: XXX52
+2022-07-23 22:45:15,318 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:15,319 - root - INFO - Domain name for the offense id: XXX52 is: Domain_test
+2022-07-23 22:45:15,319 - root - INFO - Getting the offence type name for the offense id: XXX52
+2022-07-23 22:45:15,880 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:15,882 - root - INFO - Offense type name for the offense id: XXX52 is Username
+2022-07-23 22:45:15,882 - root - INFO - Getting the domain name for the offense id: XXX51
+2022-07-23 22:45:16,459 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:16,460 - root - INFO - Domain name for the offense id: XXX51 is: Domain_test
+2022-07-23 22:45:16,461 - root - INFO - Getting the offence type name for the offense id: XXX51
+2022-07-23 22:45:17,088 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:17,090 - root - INFO - Offense type name for the offense id: XXX51 is Source IP
+2022-07-23 22:45:17,090 - root - INFO - Getting the domain name for the offense id: XXX50
+2022-07-23 22:45:17,687 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:17,689 - root - INFO - Domain name for the offense id: XXX50 is: Domain_test
+2022-07-23 22:45:17,689 - root - INFO - Getting the offence type name for the offense id: XXX50
+2022-07-23 22:45:18,291 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:18,293 - root - INFO - Offense type name for the offense id: XXX50 is Destination IP
+2022-07-23 22:45:18,293 - root - INFO - Getting the domain name for the offense id: XXX49
+2022-07-23 22:45:19,193 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:19,194 - root - INFO - Domain name for the offense id: XXX49 is: Domain_test
+2022-07-23 22:45:19,194 - root - INFO - Getting the offence type name for the offense id: XXX49
+2022-07-23 22:45:20,641 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:20,643 - root - INFO - Offense type name for the offense id: XXX49 is Username
+2022-07-23 22:45:20,643 - root - INFO - Getting the domain name for the offense id: XXX48
+2022-07-23 22:45:21,741 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:21,742 - root - INFO - Domain name for the offense id: XXX48 is: Domain_test
+2022-07-23 22:45:21,742 - root - INFO - Getting the offence type name for the offense id: XXX48
+2022-07-23 22:45:22,274 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:22,276 - root - INFO - Offense type name for the offense id: XXX48 is Source IP
+2022-07-23 22:45:22,276 - root - INFO - Getting the domain name for the offense id: XXX47
+2022-07-23 22:45:22,835 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:22,837 - root - INFO - Domain name for the offense id: XXX47 is: Domain_test
+2022-07-23 22:45:22,837 - root - INFO - Getting the offence type name for the offense id: XXX47
+2022-07-23 22:45:23,333 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:23,335 - root - INFO - Offense type name for the offense id: XXX47 is Source IP
+2022-07-23 22:45:23,335 - root - INFO - Getting the domain name for the offense id: XXX46
+2022-07-23 22:45:23,895 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:23,896 - root - INFO - Domain name for the offense id: XXX46 is: Domain_test
+2022-07-23 22:45:23,897 - root - INFO - Getting the offence type name for the offense id: XXX46
+2022-07-23 22:45:24,481 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:24,483 - root - INFO - Offense type name for the offense id: XXX46 is Destination Port
+2022-07-23 22:45:24,483 - root - INFO - Getting the domain name for the offense id: XXX45
+2022-07-23 22:45:24,984 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:24,986 - root - INFO - Domain name for the offense id: XXX45 is: Domain_test
+2022-07-23 22:45:24,986 - root - INFO - Getting the offence type name for the offense id: XXX45
+2022-07-23 22:45:25,576 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:25,578 - root - INFO - Offense type name for the offense id: XXX45 is Source IP
+2022-07-23 22:45:25,578 - root - INFO - Getting the domain name for the offense id: XXX44
+2022-07-23 22:45:26,201 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:26,202 - root - INFO - Domain name for the offense id: XXX44 is: Domain_test
+2022-07-23 22:45:26,203 - root - INFO - Getting the offence type name for the offense id: XXX44
+2022-07-23 22:45:26,753 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:26,754 - root - INFO - Offense type name for the offense id: XXX44 is Source IP
+2022-07-23 22:45:26,755 - root - INFO - Getting the domain name for the offense id: XXX43
+2022-07-23 22:45:27,259 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:27,261 - root - INFO - Domain name for the offense id: XXX43 is: Domain_test
+2022-07-23 22:45:27,261 - root - INFO - Getting the offence type name for the offense id: XXX43
+2022-07-23 22:45:27,818 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:27,819 - root - INFO - Offense type name for the offense id: XXX43 is Source IP
+2022-07-23 22:45:27,820 - root - INFO - Change the domain id for the domain name is for all the current offenses is done ok
+2022-07-23 22:45:27,856 - root - INFO - Starting to get the rule name, owner, origin and identifier for the rule id in all the ofenses
+2022-07-23 22:45:28,323 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:28,328 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX93 is REGLA PRUEBA 
+2022-07-23 22:45:28,845 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:28,847 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX92 is REGLA PRUEBA 
+2022-07-23 22:45:29,412 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:29,414 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX91 is REGLA PRUEBA 
+2022-07-23 22:45:30,014 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:30,016 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX90 is REGLA PRUEBA 
+2022-07-23 22:45:30,582 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:30,585 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX89 is REGLA PRUEBA 
+2022-07-23 22:45:31,216 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:31,218 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX86 is REGLA PRUEBA 
+2022-07-23 22:45:31,898 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:31,901 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX80 is REGLA PRUEBA 
+2022-07-23 22:45:32,709 - root - INFO - Function change_rule_id() is done ok for rule Domain_test REGLA PRUEBA 
+2022-07-23 22:45:32,711 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX79 is Domain_test REGLA PRUEBA 
+2022-07-23 22:45:34,141 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:34,144 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX78 is REGLA PRUEBA 
+2022-07-23 22:45:35,511 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:35,513 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX77 is REGLA PRUEBA 
+2022-07-23 22:45:36,133 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:36,136 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX76 is REGLA PRUEBA 
+2022-07-23 22:45:36,727 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:36,730 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX75 is REGLA PRUEBA 
+2022-07-23 22:45:37,308 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA 
+2022-07-23 22:45:37,310 - root - INFO - Rule name, owner, origin and identifier for the offense id: XXX74 is REGLA PRUEBA 
+2022-07-23 22:45:57,374 - root - INFO - The df to csv is done ok
+2022-07-23 22:45:58,000 - root - INFO - Extract the log source in the nested json for the offense id: XXX94
+2022-07-23 22:45:58,001 - root - INFO - Extract the rule id in the nested json for the offense id: XXX94
+2022-07-23 22:45:58,001 - root - INFO - Function extract_nested_jsons() is done ok
+2022-07-23 22:45:58,002 - root - INFO - Function drop_columns() is done ok
+2022-07-23 22:45:58,002 - root - INFO - Getting the domain name for the offense id: XXX94
+2022-07-23 22:45:58,599 - root - INFO - Function change_domain_id() is done ok
+2022-07-23 22:45:58,601 - root - INFO - Domain name for the offense id: XXX94 is: Domain_test
+2022-07-23 22:45:58,601 - root - INFO - Getting the offense type name for the offense id: XXX94
+2022-07-23 22:45:59,121 - root - INFO - Function change_offense_type_id() is done ok
+2022-07-23 22:45:59,397 - root - ERROR - Function change_offense_type_id() is not done ok
+2022-07-23 22:45:59,399 - root - INFO - Offense type name for the offense id: XXX94 is None
+2022-07-23 22:46:00,939 - root - INFO - Function change_rule_id() is done ok for rule REGLA PRUEBA
+2022-07-23 22:46:00,942 - root - INFO - Rule name, owner, origin and identifier for the new offense id: XXX94 is REGLA PRUEBA
+2022-07-23 22:46:00,942 - root - INFO - Function get_new_offenses() is done ok
+2022-07-23 22:46:00,942 - root - INFO - last id is XXX93
+2022-07-23 22:46:00,943 - root - INFO - new offense added. ID is XXX94
+2022-07-23 22:46:00,943 - root - INFO - The new offenses to csv is done ok
