@@ -50,11 +50,13 @@ Must check
 | notes      | `string` | **Required**. Number - The note text. |
 
 
-The official IBM documentation on the use of the API is at https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview
+## Documentation
 
-Qradar is an IBM product and rights are owned by them.
-
-Ch
+[IBM Documentation](https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview)
+[Qradar](https://www.ibm.com/community/qradar/)
+[Pandas](https://pandas.pydata.org/docs/reference/index.html)
+[Logging](https://docs.python.org/3/library/logging.html)
+[Jupyter Notebook](https://jupyter.org/notebook.html)
 
 
 ## Authors
