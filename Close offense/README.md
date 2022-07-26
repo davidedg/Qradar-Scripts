@@ -52,11 +52,13 @@ Must check
 
 ## Documentation
 
-[IBM Documentation](https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview)
-[Qradar](https://www.ibm.com/community/qradar/)
-[Pandas](https://pandas.pydata.org/docs/reference/index.html)
-[Logging](https://docs.python.org/3/library/logging.html)
-[Jupyter Notebook](https://jupyter.org/notebook.html)
+- [x] [IBM Documentation](https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview)
+- [x] [Qradar](https://www.ibm.com/community/qradar/)
+- [x] [Pandas](https://pandas.pydata.org/docs/reference/index.html)
+- [x] [Logging](https://docs.python.org/3/library/logging.html)
+- [x] [Jupyter Notebook](https://jupyter.org/notebook.html)
+
+(Qradar is an IBM product and rights are owned by them.)
 
 
 ## Authors

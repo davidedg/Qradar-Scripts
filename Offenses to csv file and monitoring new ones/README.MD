@@ -70,6 +70,8 @@ Must check
 - [x] [Logging](https://docs.python.org/3/library/logging.html)
 - [x] [Jupyter Notebook](https://jupyter.org/notebook.html)
 
+(Qradar is an IBM product and rights are owned by them.)
+
 ## Authors
 
 - [@chmedinap](https://www.github.com/chmedinap)
