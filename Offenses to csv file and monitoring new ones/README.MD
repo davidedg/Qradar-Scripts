@@ -22,6 +22,7 @@ Must check
 ## Output:
 
 df.columns
+```
 Index(['description', 'event_count', 'source_count', 'inactive',
        'destination_networks', 'source_network', 'remote_destination_count',
        'start_time', 'magnitude', 'credibility', 'id', 'categories',
@@ -29,6 +30,7 @@ Index(['description', 'event_count', 'source_count', 'inactive',
        'log_source', 'rule_id', 'domain_name', 'offense_type_name',
        'rule_name', 'owner', 'origin', 'identifier'],
       dtype='object')
+```
 
 ## API Reference - Functions:
 
