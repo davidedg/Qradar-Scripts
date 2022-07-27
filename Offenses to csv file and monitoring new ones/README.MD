@@ -19,6 +19,17 @@ Must check
 - [x]  Have an authorized service token with admin privileges. Variable=SEC_TOKEN
 - [x]  Network connectivity with the Qradar console through port 433. Variable=URL_base
 
+## Output:
+
+df.columns
+Index(['description', 'event_count', 'source_count', 'inactive',
+       'destination_networks', 'source_network', 'remote_destination_count',
+       'start_time', 'magnitude', 'credibility', 'id', 'categories',
+       'severity', 'offense_type', 'relevance', 'domain_id', 'offense_source',
+       'log_source', 'rule_id', 'domain_name', 'offense_type_name',
+       'rule_name', 'owner', 'origin', 'identifier'],
+      dtype='object')
+
 ## API Reference - Functions:
 
 #### get_old_offenses
