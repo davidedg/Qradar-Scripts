@@ -6,7 +6,7 @@ The format of the scripts is Jupyter Notebook and I will do my best to make the 
 
 Everything shown in this repository is for educational purposes, if you want to use them in productive environments you must make sure to do the respective tests before affecting any system.
 
-This script has been made to obtain the open offenses and close and comment the ones that have been created for certain hours.
+This script has been made to obtain the info of the deployment of the QRadar environment.
 
 Must check
 
