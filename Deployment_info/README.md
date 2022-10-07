@@ -33,10 +33,6 @@ Retrieves the list of all deployed hosts:
 ```https
   GET /config/deployment/hosts
 ```
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| fields (optional)     | `string` | Use this parameter to specify which fields you would like to get back in the response. |
-
 ## Documentation
 
 - [x] [IBM Documentation](https://www.ibm.com/docs/en/qsip/7.3.3?topic=api-restful-overview)
