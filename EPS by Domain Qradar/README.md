@@ -8,7 +8,7 @@ Everything shown in this repository is for educational purposes, if you want to 
 
 There are situations where an MSSP contains a different  number of clients in the same Qradar. In this type of environment there may be several  EC or EP for the clients, but there may also be one that is  shared among several others and the logical separation is done by Domains.
 
-For this type of cases, I have created this small script  which, with previously defined queries, can extract the EPS by domain. You can schedule this script to run several times a day to get variations on the day and as the days go by, save the data to make a timeline in a data analytics software.
+For this type of cases, I have created this small script  which, with previously defined queries, can extract the EPS by domain. You can schedule this script to run several times a day to get variations through the day and as the days go by, save the data to make a timeline in a data analytics software.
 
 The steps to create the queries are:
 
